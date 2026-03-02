@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907108418649",
+    "project_id": "quizzia-c4e3d",
+    "storage_bucket": "quizzia-c4e3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907108418649:android:09954cf55740deb295dd48",
+        "android_client_info": {
+          "package_name": "com.example.quizzia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGVii1ohESYYED9wyXqxqhhbg_XjcuBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
